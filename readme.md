@@ -23,4 +23,4 @@ python annotationbot.py
 Go to Telegram and send `/start` to start talking to your bot.
 
 ## See also
-You may also want to take a look at my other audio annotation tool called [https://github.com/monatis/label-snd](label-snd).
+You may also want to take a look at my other audio annotation tool called [label-snd](https://github.com/monatis/label-snd).
