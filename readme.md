@@ -4,7 +4,7 @@ Simple Telegram bot to varify Automatic Speech Recognition (ASR) dataset annotat
 
 ## Motivation
 
-I know that there exist a great number of annotation tools including the ones written by me, I feel tired from configuring them and telling annotators how to use them. So I wanted to use an interface that is familiar and accessible to anyone and anytime. And, Telegram did a great job. It didn't take even 20 mins to write the whole code (in fact, it was shorter than the time spent to publish this repo). I'm sharing this simple code hoping that it may be an inspiration for others to develop Telegram bots to annotate data for other machine learning tasks.
+I know that there exist a great number of annotation tools including the ones written by me, but I feel tired from configuring them and telling annotators how to use them. So I wanted to use an interface that is familiar and accessible to anyone and anytime. And, Telegram did a great job. It didn't take even 20 mins to write the whole code (in fact, it was shorter than the time spent to publish this repo). I'm sharing this simple code hoping that it may be an inspiration for others to develop Telegram bots to annotate data for other machine learning tasks.
 ## How to use
 The only dependency is `python-telegram-bot` which is pip-installable:
 ```shell
